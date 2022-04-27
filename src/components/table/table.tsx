@@ -18,9 +18,7 @@ function Table(props: TableProps) {
     fetch('https://gorest.co.in/public/v2/users')
         .then(response => response.json())
         .then(data => setUserList(data),
-        (error) => {
-            console.log(error);
-        })
+        (error) => {})
   }
 
   const filterUserList = () => {
