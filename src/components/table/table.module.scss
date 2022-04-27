@@ -1,0 +1,41 @@
+.Table {
+  width: 100%;
+  border-spacing: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: fit-content;
+}
+
+.LeftColumnHeader, .ColumHeader {
+  border-bottom: 2px solid #E3E5E5;
+  color: #919699;
+  height: 6.5vh;
+  font-size: 1em;
+  font-weight: normal;
+  
+}
+
+.LeftColumnHeader {
+  width: 50%;
+  text-align: start;
+}
+
+.ColumHeader { 
+  text-align: end;
+}
+
+.LeftColumnContent, .ColumnContent {
+  border-bottom: 1px solid #E3E5E5;
+  font-size: 1.25em;
+  font-weight: normal;
+  height: 6.2vh;
+  line-height: 3em;
+}
+
+.LeftColumnContent {
+  text-align: start;
+}
+
+.ColumnContent {
+  color: #5E6366;
+  text-align: end;
+}

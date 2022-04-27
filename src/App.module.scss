@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  background-color: #E2F0F0;
+}
+.App {
+  background-color: white;
+
+  .Content {
+    width: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+    position: relative;
+    min-height: 100%;
+
+    .FiltersArea {
+      background-color: #E2F0F0;
+      width: 26%;
+      min-width: fit-content;
+      box-sizing: border-box;
+      padding-left: 4.5%;
+      padding-right: 3.7%;
+
+        .CreateNewButton {
+          min-height: 70px;
+          min-width: 213px;
+          margin-top: 12%;
+          cursor: pointer;
+        }
+    }
+ 
+    .TableArea {
+      background-color: #E2F0F0;
+      min-width: fit-content;
+      width: 74%;
+      padding-right: 10%;
+      padding-bottom: 3%;
+
+      .Header {
+        padding: 1% 0 1% 0;
+        width: fit-content;
+        height: fit-content;
+        margin-top: 1%;
+        margin-bottom: 1.5%;
+      }
+    }
+  }
+}

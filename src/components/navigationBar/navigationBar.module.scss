@@ -1,0 +1,21 @@
+.NavigationBar {
+    min-height: 56px;
+    min-width: 825px;
+    width: auto;
+    position: relative;
+    border-bottom: 1px dashed #E3E5E5;
+    background-color: white;
+    
+    .NavMenu{
+        position: absolute; 
+        left: 23%;
+        
+        .MenuItem {
+            margin-top:1px; 
+            height: 100%;
+            width: fit-content;
+            fill: white;
+            cursor: pointer;
+        }
+    }
+}

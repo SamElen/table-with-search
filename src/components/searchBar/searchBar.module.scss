@@ -1,0 +1,12 @@
+.Search {
+    margin-top: 2%;
+    background-color: transparent;
+    border-radius: 10px;
+    width: 48%;
+    min-height: 32px;
+    border-style: groove;
+    border-color: #C6CACC;
+    &::placeholder {
+        color:black;
+    }
+}

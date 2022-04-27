@@ -1,0 +1,28 @@
+.AppHeader {
+    background-color: white;
+    margin: 0 1vw 0 1vw;
+    height: 9vh;
+    position: relative;
+    min-height: 64px;
+    min-width: 824px;
+
+  .Logo {
+      position: absolute; 
+      height: 100%;
+      width: auto;
+  }
+
+  .UserInfoArea {
+    position: absolute;
+    right: 0;
+    height: 100%;
+    width: auto;
+
+    .UserInfo {
+      cursor: pointer;
+      height: 62%;
+      margin-top: 6%;
+      width: auto;
+    }
+  }
+}
