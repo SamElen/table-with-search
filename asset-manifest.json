@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/table-with-search/static/css/main.35a7d4d6.css",
+    "main.js": "/table-with-search/static/js/main.19254aed.js",
+    "static/js/787.c2e74a25.chunk.js": "/table-with-search/static/js/787.c2e74a25.chunk.js",
+    "static/media/userIcon.svg": "/table-with-search/static/media/userIcon.38322874a5587fc2155d933d032d2be5.svg",
+    "static/media/oddRowsButton.svg": "/table-with-search/static/media/oddRowsButton.3f82e9b7332d7134836dc37ac295df6d.svg",
+    "static/media/evenRowsButton.svg": "/table-with-search/static/media/evenRowsButton.9fe72e7ffe895eee1e130d153ea315a6.svg",
+    "static/media/allDataButton.svg": "/table-with-search/static/media/allDataButton.14d7206cccd7f6cd59ff5411334bd0ee.svg",
+    "static/media/mainLogo.svg": "/table-with-search/static/media/mainLogo.a80a52671a8719091e45a2ac4c3067e5.svg",
+    "static/media/createNewButton.svg": "/table-with-search/static/media/createNewButton.05796057a1931e387f640d1884bf6ecf.svg",
+    "static/media/dashboardText.svg": "/table-with-search/static/media/dashboardText.eeaf6793f88eeeb7c5f7eff9e247b63b.svg",
+    "static/media/myCampaigns.svg": "/table-with-search/static/media/myCampaigns.0c6c4dbe2847638010543c6d9fe5750d.svg",
+    "static/media/configure.svg": "/table-with-search/static/media/configure.fe599e27951ba1b1ef0c9ed84b2a1b94.svg",
+    "static/media/upgradeButton.svg": "/table-with-search/static/media/upgradeButton.c0f9eab6fe3fa0039aaa9292dfee10fb.svg",
+    "static/media/analyze.svg": "/table-with-search/static/media/analyze.e41b23e6f6dcff82271788cb4c825d06.svg",
+    "static/media/helpButton.svg": "/table-with-search/static/media/helpButton.df9634cf4c6298e14d3d5d41079eeb97.svg",
+    "index.html": "/table-with-search/index.html",
+    "main.35a7d4d6.css.map": "/table-with-search/static/css/main.35a7d4d6.css.map",
+    "main.19254aed.js.map": "/table-with-search/static/js/main.19254aed.js.map",
+    "787.c2e74a25.chunk.js.map": "/table-with-search/static/js/787.c2e74a25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a7d4d6.css",
+    "static/js/main.19254aed.js"
+  ]
+}
